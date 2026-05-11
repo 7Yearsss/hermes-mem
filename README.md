@@ -18,15 +18,15 @@ hermes-mem/
 
 | 文件 | 内容 |
 |------|------|
-| interview-part1-java-se.md | Java SE 基础 |
-| interview-part2-springboot-cloud.md | SpringBoot + Spring Cloud |
-| interview-part3-db-redis-kafka.md | 数据库 + Redis + Kafka |
-| interview-part4-wms-business.md | WMS 业务知识 |
-| interview-part5-maven-gradle.md | Maven + Gradle |
-| interview-part6-unit-testing.md | 单元测试 |
-| interview-part7-design-patterns.md | 设计模式 |
-| interview-part8-dsa.md | 数据结构与算法 |
-| interview-part9-os-network.md | 操作系统与计算机网络 |
+| interview-part01-java-se.md | Java SE 基础 |
+| interview-part02-springboot-cloud.md | SpringBoot + Spring Cloud |
+| interview-part03-db-redis-kafka.md | 数据库 + Redis + Kafka |
+| interview-part04-wms-business.md | WMS 业务知识 |
+| interview-part05-maven-gradle.md | Maven + Gradle |
+| interview-part06-unit-testing.md | 单元测试 |
+| interview-part07-design-patterns.md | 设计模式 |
+| interview-part08-dsa.md | 数据结构与算法 |
+| interview-part09-os-network.md | 操作系统与计算机网络 |
 | interview-part10-git.md | Git |
 | interview-part11-docker-k8s.md | Docker + Kubernetes |
 | interview-part12-cicd.md | CI/CD |
@@ -45,7 +45,7 @@ hermes-mem/
 | interview-part25-zookeeper.md | Zookeeper |
 | interview-part26-kafka-deep.md | Kafka 深度剖析 |
 | interview-part27-mysql-optimization.md | MySQL 优化 |
-| interview-part28-java8-17_features.md | Java 8~17 新特性 |
+| interview-part28-java8-17-features.md | Java 8~17 新特性 |
 | interview-part29-springcloud-alibaba.md | Spring Cloud Alibaba |
 | interview-part30-wms-warehouse-ops.md | WMS 仓库运营 |
 | interview-part31-microservices-advanced.md | 微服务进阶 |
